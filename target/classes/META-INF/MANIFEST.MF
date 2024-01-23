@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 21
+Implementation-Title: Rental
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.vais
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Rental
+Created-By: Maven Integration for Eclipse
+
